@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bianca and I'm from 🇧🇷!</p>
+<p align="center">My name is Bianca and I'm from 🇧🇷!</p>
 
 ###
 
