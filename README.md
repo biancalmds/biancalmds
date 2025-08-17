@@ -1,33 +1,29 @@
-<h1 align="center">Hey 👋 What's up?</h1>
-
-###
-
-<p align="center">My name is Bianca and I'm from 🇧🇷!</p>
-
-###
-
-<h2 align="center">About me</h2>
-
-###
-
-<p align="left">💻 Student of Information Systems at Impacta College, São Paulo<br>📚 Passionate about technology and books<br>💭 Currently learning about web development and data analysis</p>
-
-###
-
-<h2 align="center">Tech Stack</h2>
-
-###
+<h1 align="center">Hey, I'm Bianca!👋</h1>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <table>
+    <tr>
+      <td align="left" width="60%">
+        <p>💻 Student of Information Systems at Impacta College, São Paulo.</p>
+        <p>✈️ Lived in England (London) for a month on an exchange program.</p>
+        <p>📚 Passionate about technology, books, and creativity.</p>
+        <p>💭 Currently learning about backend development and data analysis.</p>
+      </td>
+      <td align="right" width="40%">
+        <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300px">
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+<h2 align="center">💻 Tech Stack Highlights & Latest Commit Energy</h2>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancalmds&hide=html&layout=compact&theme=radical&card_width=400"/>
+  </a>
+   &nbsp;&nbsp; &nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancalmds&theme=radical&show_icons=true&card_width=400"/>
+  </a>
+</p>
